@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+
 <!--
 **Altlog214608/Altlog214608** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/Altlog214608"
+  width="600"
+  height="300"
+/>
+</a>
