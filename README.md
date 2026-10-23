@@ -10,7 +10,7 @@ Python 소프트웨어 개발자로 일한 뒤, 직접 만든 서비스를 AWS�
 
 | 프로젝트 | 내용 | 기술 |
 | --- | --- | --- |
-| [KoiCut](https://github.com/Altlog214608/fitcut) | 사진·영상 변환 웹 서비스 ([koicut.com](https://koicut.com)) | AWS Lambda, SQS, DynamoDB, Terraform |
+| [KoiCut](https://github.com/Altlog214608/koicut) | 사진·영상 변환 웹 서비스 ([koicut.com](https://koicut.com)) | AWS Lambda, SQS, DynamoDB, Terraform |
 | [PDF → 한글 변환기](https://github.com/Altlog214608/pdf-to-hwpx) | 국어 강사가 쓰는 문제집 변환 서비스 | Python, FastAPI, AWS Lightsail |
 | [portfolio](https://github.com/Altlog214608/portfolio) | 포트폴리오 사이트 | S3, CloudFront, GitHub Actions |
 
